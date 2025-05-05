@@ -69,6 +69,9 @@ const Pitch: React.FC<PitchProps> = ({ score, setScore, matchStarted, hasInterac
           goalTeam = 'home';
         }
 
+        console.log(score);
+        console.log(targetPlayerId);
+
         if (goalTeam) {
           setScore((prev) => ({
             ...prev,
