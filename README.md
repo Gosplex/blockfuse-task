@@ -21,7 +21,7 @@ This project simulates a live football pitch with animated ball movement, goal d
 - TypeScript
 - SVG (for pitch rendering)
 - Lottie (via `lottie-react`)
-- Howler.js (for audio)
+- React Audio
 - CSS Modules or Tailwind (optional)
 
 ---
