@@ -1,0 +1,24 @@
+/* Global Dark Mode Styles */
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #121212; /* Dark background */
+  color: #e0e0e0; /* Light text */
+  font-family: Arial, sans-serif;
+  transition: background 0.3s ease;
+}
+
+/* Pitch container white text for contrast */
+h1 {
+  color: white;
+  text-shadow: 0 2px 4px rgba(0,0,0,0.5);
+}
+
+/* Optional: Slightly darker pitch for better contrast */
+.pitch-svg {
+  filter: brightness(0.95);
+}
