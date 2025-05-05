@@ -30,6 +30,6 @@ This project simulates a live football pitch with animated ball movement, goal d
 
 ```bash
 git clone https://github.com/Gosplex/blockfuse_task.git
-cd football-animation-app
+cd blockfuse-task
 npm install
 npm run dev
