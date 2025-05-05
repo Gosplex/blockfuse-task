@@ -22,7 +22,7 @@ This project simulates a live football pitch with animated ball movement, goal d
 - SVG (for pitch rendering)
 - Lottie (via `lottie-react`)
 - React Audio
-- CSS Modules or Tailwind (optional)
+- CSS Modules
 
 ---
 
