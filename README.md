@@ -33,3 +33,4 @@ git clone https://github.com/Gosplex/blockfuse_task.git
 cd blockfuse-task
 npm install
 npm run dev
+LIVE DEMO https://blockfuseleague.netlify.app/
