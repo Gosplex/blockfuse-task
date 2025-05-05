@@ -110,4 +110,6 @@ function App() {
   );
 }
 
+console.log(React); 
+
 export default App;
